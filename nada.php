@@ -1,3 +1,3 @@
 <?
-echo 'todo listo para comenzar';
+echo 'todo listo y ya';
 ?>

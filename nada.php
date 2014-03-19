@@ -1,3 +1,4 @@
 <?
-echo 'todo listo para comenzar';
+echo 'todo listo para comenzar en cualquier momento;
+
 ?>
